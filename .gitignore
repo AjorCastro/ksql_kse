@@ -1,0 +1,7 @@
+# Ignorar virtual env.
+ksql_venv/
+# Ignorar archivos compilados
+*.pyc
+# ignorar directorios de cache.
+__pycache__/
+
